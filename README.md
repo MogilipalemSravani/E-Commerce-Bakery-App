@@ -1,5 +1,4 @@
 
-"# E-Commerce-Bakery-App" 
 
 # [Project Name] -  Bakery Management System
 
